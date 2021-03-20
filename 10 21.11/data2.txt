@@ -1,0 +1,12 @@
+zj 45
+bv 62
+ho 61
+zl 86
+ho 99
+
+utriedeni podla mena
+bv 62
+ho 99
+ho 99
+zj 45
+zl 86
